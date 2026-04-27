@@ -1,0 +1,283 @@
+[
+  {
+    "slug": "aims-locum-tenens-llc-washington-dc",
+    "name": "AIMS Locum Tenens LLC",
+    "city": "Washington",
+    "state": "DC",
+    "address": "Not provided in search results",
+    "lat": 38.9072,
+    "lng": -77.0369,
+    "phone": "Not provided in search results",
+    "website": "https://aimslocumtenens.com",
+    "email": "info@aimslocumtenens.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Women-owned, WOSB/EDWOSB certified locum tenens agency specializing in placing physicians, nurses, and allied health professionals in government and civilian facilities. Provides staffing for DHA, DoD, VA, and commercial facilities nationwide with 15+ years of experience.",
+    "certifications": [],
+    "services": [
+      "Physician staffing",
+      "Nurse staffing",
+      "Allied health staffing",
+      "Government facility placement",
+      "Commercial facility placement",
+      "Credentialing",
+      "Rapid deployment"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:15:25",
+    "sentiment": null
+  },
+  {
+    "slug": "amn-healthcare-washington-dc",
+    "name": "AMN Healthcare",
+    "city": "Washington",
+    "state": "DC",
+    "address": "Not provided in search results",
+    "lat": 38.9072,
+    "lng": -77.0369,
+    "phone": "Not provided in search results",
+    "website": "https://www.amnhealthcare.com/careers/physician/locum-tenens/",
+    "email": "address@example.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Healthcare staffing agency connecting locum tenens physicians to temporary positions. Locum tenens professionals fill in for other healthcare providers during staffing shortages.",
+    "certifications": [],
+    "services": [
+      "Physician locum tenens",
+      "PA locum tenens",
+      "NP locum tenens"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:15:25",
+    "sentiment": null
+  },
+  {
+    "slug": "all-medical-personnel-washington-dc",
+    "name": "All Medical Personnel",
+    "city": "Washington",
+    "state": "DC",
+    "address": "Not provided in search results",
+    "lat": 38.9072,
+    "lng": -77.0369,
+    "phone": "Not provided in search results",
+    "website": "https://allmedical.com/dc-healthcare-staffing/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "National healthcare staffing agency serving Washington DC and the United States. Offers Locum Tenens, Travel Nursing, Travel Therapy, and Allied Health staffing services for healthcare organizations and government entities.",
+    "certifications": [],
+    "services": [
+      "Locum Tenens",
+      "Travel Nursing",
+      "Travel Therapy",
+      "Allied Health staffing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:15:25",
+    "sentiment": null
+  },
+  {
+    "slug": "aya-locums-washington-dc",
+    "name": "Aya Locums",
+    "city": "Washington",
+    "state": "DC",
+    "address": "Not provided in search results",
+    "lat": 38.9072,
+    "lng": -77.0369,
+    "phone": "Not provided in search results",
+    "website": "https://www.ayalocums.com",
+    "email": "locumsinfo@ayalocums.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Locum tenens agency matching physicians and advanced practice providers with healthcare facilities across the country.",
+    "certifications": [],
+    "services": [
+      "Physician placement",
+      "Advanced practice provider placement"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:15:25",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "great experience",
+        "recruiter support",
+        "facility quality",
+        "professional",
+        "fabulous",
+        "best place"
+      ],
+      "highlights": [
+        {
+          "text": "I feel like I've come to the best place",
+          "sentiment": "positive"
+        },
+        {
+          "text": "My recruiter has been fabulous to work with",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I've had a great experience with Aya and the facility I'm assigned to",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Aya Locums receives overwhelmingly positive feedback highlighting excellent recruiter support, quality facility assignments, and an outstanding overall work experience."
+    }
+  },
+  {
+    "slug": "barton-associates-washington-dc",
+    "name": "Barton Associates",
+    "city": "Washington",
+    "state": "DC",
+    "address": "Not provided in search results",
+    "lat": 38.9072,
+    "lng": -77.0369,
+    "phone": "Not provided in search results",
+    "website": "https://www.bartonassociates.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Locum tenens staffing agency offering positions for physicians, NPs, PAs, dentists, psychologists, and other healthcare professionals across all 50 states.",
+    "certifications": [],
+    "services": [
+      "Physician staffing",
+      "NP staffing",
+      "PA staffing",
+      "Dentist staffing",
+      "Psychologist staffing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:15:25",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "professionalism",
+        "helpful",
+        "prompt response",
+        "great service",
+        "communication",
+        "smooth process"
+      ],
+      "highlights": [
+        {
+          "text": "usual high standard of professionalism that I have come to expect",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I am very pleased with my agent. He is very helpful and great service.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "She stays in contact with me and is a joy to work with",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Smooth comfortable service. Always prompt response.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Barton Associates receives unanimously positive reviews emphasizing professional staff, responsive communication, helpful agents, and seamless service delivery."
+    }
+  },
+  {
+    "slug": "locumtenenscom-washington-dc",
+    "name": "LocumTenens.com",
+    "city": "Washington",
+    "state": "DC",
+    "address": "Not provided in search results",
+    "lat": 38.9072,
+    "lng": -77.0369,
+    "phone": "Not provided in search results",
+    "website": "https://www.locumtenens.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "The industry's largest locum tenens job board and full-service healthcare staffing agency. Connects physicians, PAs, NPs, and CRNAs with locum tenens and permanent job opportunities.",
+    "certifications": [],
+    "services": [
+      "Physician placement",
+      "PA placement",
+      "NP placement",
+      "CRNA placement",
+      "Family practice jobs",
+      "Internal medicine jobs"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:15:25",
+    "sentiment": null
+  },
+  {
+    "slug": "medicus-hcs-washington-dc",
+    "name": "Medicus HCS",
+    "city": "Washington",
+    "state": "DC",
+    "address": "Not provided in search results",
+    "lat": 38.9072,
+    "lng": -77.0369,
+    "phone": "Not provided in search results",
+    "website": "https://medicushcs.com/job-board/all/all/district-of-columbia",
+    "email": "info@medicushcs.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Healthcare staffing agency offering exclusive physician and advanced practitioner locum tenens jobs across the United States, including District of Columbia positions.",
+    "certifications": [],
+    "services": [
+      "Physician locum tenens",
+      "Advanced practitioner locum tenens"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:15:25",
+    "sentiment": null
+  }
+]

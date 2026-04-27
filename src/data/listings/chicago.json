@@ -1,0 +1,210 @@
+[
+  {
+    "slug": "aya-locums-chicago",
+    "name": "Aya Locums",
+    "city": "Chicago",
+    "state": "IL",
+    "address": "",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "phone": "1776992717",
+    "website": "https://www.ayalocums.com",
+    "email": "locumsinfo@ayalocums.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Locum tenens agency matching physicians and advanced practice providers with healthcare facilities across the country, including Illinois opportunities.[7]",
+    "certifications": [],
+    "services": [
+      "physician locum matching",
+      "advanced practice provider jobs",
+      "CV submission and job browsing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:12:39",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.93,
+      "keywords": [
+        "great experience",
+        "excellent facility",
+        "professional recruiter",
+        "supportive team",
+        "best workplace"
+      ],
+      "highlights": [
+        {
+          "text": "I feel like I've come to the best place",
+          "sentiment": "positive"
+        },
+        {
+          "text": "My recruiter has been fabulous to work with",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Aya Locums receives enthusiastic praise for excellent workplace experience, quality facility assignments, and outstanding recruiter support."
+    }
+  },
+  {
+    "slug": "barton-associates-chicago",
+    "name": "Barton Associates",
+    "city": "Chicago",
+    "state": "IL",
+    "address": "",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "phone": "1120257450",
+    "website": "https://www.bartonassociates.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "National locum tenens staffing agency placing physicians, nurse practitioners, physician assistants, and dentists in Illinois assignments across various specialties including dentistry and neurology.[1]",
+    "certifications": [],
+    "services": [
+      "locum tenens physician placement",
+      "nurse practitioner staffing",
+      "dentist assignments",
+      "state licensing assistance"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:12:39",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.96,
+      "keywords": [
+        "professional",
+        "responsive",
+        "helpful",
+        "personable",
+        "smooth",
+        "reliable"
+      ],
+      "highlights": [
+        {
+          "text": "I am very pleased with my agent. He is very helpful and great service.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "My consultant is great. She stays in contact with me and is a joy to work with.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Smooth comfortable service. Always prompt response.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "usual high standard of professionalism that I have come to expect",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Barton Associates receives overwhelmingly positive reviews, with physicians and locum tenens providers consistently praising their professionalism, responsive staff, smooth processes, and strong personal relationships."
+    }
+  },
+  {
+    "slug": "echo-locum-tenens-chicago",
+    "name": "Echo Locum Tenens",
+    "city": "Chicago",
+    "state": "IL",
+    "address": "",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "phone": "1777217126",
+    "website": "https://echolocum.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Locum tenens agency focused on improving patient outcomes and reducing healthcare costs by connecting providers and facilities efficiently.[9]",
+    "certifications": [],
+    "services": [
+      "provider placement",
+      "facility staffing",
+      "personalized locum experience"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:12:39",
+    "sentiment": null
+  },
+  {
+    "slug": "locumtenenscom-chicago",
+    "name": "LocumTenens.com",
+    "city": "Chicago",
+    "state": "IL",
+    "address": "",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "phone": "2147483647",
+    "website": "https://www.locumtenens.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Full-service recruitment agency for physicians, advanced practitioners, psychologists, and social workers offering locum tenens and permanent jobs nationwide, including Illinois.[5]",
+    "certifications": [],
+    "services": [
+      "physician recruitment",
+      "advanced practitioner staffing",
+      "psychologist placements",
+      "onsite and virtual assignments"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:12:39",
+    "sentiment": null
+  },
+  {
+    "slug": "medicus-hcs-chicago",
+    "name": "Medicus HCS",
+    "city": "Chicago",
+    "state": "IL",
+    "address": "",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "phone": "1066452224",
+    "website": "https://medicushcs.com",
+    "email": "info@medicushcs.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Locum tenens agency offering exclusive physician and advanced practitioner jobs in Illinois for full or part-time careers.[2]",
+    "certifications": [],
+    "services": [
+      "physician locum jobs",
+      "advanced practitioner placements",
+      "permanent positions"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:12:39",
+    "sentiment": null
+  }
+]

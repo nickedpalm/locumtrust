@@ -1,0 +1,94 @@
+[
+  {
+    "slug": "barton-associates-indianapolis",
+    "name": "Barton Associates",
+    "city": "Indianapolis",
+    "state": "IN",
+    "address": "",
+    "lat": 39.7684,
+    "lng": -86.1581,
+    "phone": "1120257450",
+    "website": "https://www.bartonassociates.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 4.5,
+    "review_count": 150,
+    "description": "Places healthcare professionals in locum tenens jobs across Indiana and all 50 states, covering travel expenses.[1]",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:14:12",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.88,
+      "keywords": [],
+      "highlights": [
+        {
+          "text": "Excellent support for locum assignments",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Quick placement in Indiana hospitals",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Professional recruiters",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Places healthcare professionals in locum tenens jobs across Indiana and all 50 states, covering travel expenses.[1]"
+    }
+  },
+  {
+    "slug": "one-stop-recruiting-indianapolis",
+    "name": "One Stop Recruiting",
+    "city": "Indianapolis",
+    "state": "IN",
+    "address": "",
+    "lat": 39.7684,
+    "lng": -86.1581,
+    "phone": "",
+    "website": "https://www.1stoprecruiting.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 4.8,
+    "review_count": 45,
+    "description": "Indiana physician staffing company providing locum tenens and permanent recruitment for healthcare facilities statewide.[8]",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:14:12",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [],
+      "highlights": [
+        {
+          "text": "Top rated for Indiana physician staffing",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Quick MD placements",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Affordable locum services",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Indiana physician staffing company providing locum tenens and permanent recruitment for healthcare facilities statewide.[8]"
+    }
+  }
+]

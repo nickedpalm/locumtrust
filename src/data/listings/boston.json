@@ -1,0 +1,287 @@
+[
+  {
+    "slug": "all-medical-personnel-boston",
+    "name": "All Medical Personnel",
+    "city": "Boston",
+    "state": "MA",
+    "address": "",
+    "lat": 42.3601,
+    "lng": -71.0589,
+    "phone": "1861455297",
+    "website": "https://allmedical.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "National healthcare staffing agency offering locum tenens, travel nursing, travel therapy, and allied health services throughout Massachusetts and the US.",
+    "certifications": [],
+    "services": [
+      "locum tenens",
+      "travel nursing",
+      "allied health"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:13:05",
+    "sentiment": null
+  },
+  {
+    "slug": "aya-locums-boston",
+    "name": "Aya Locums",
+    "city": "Boston",
+    "state": "MA",
+    "address": "",
+    "lat": 42.3601,
+    "lng": -71.0589,
+    "phone": "1776992717",
+    "website": "https://www.ayalocums.com",
+    "email": "locumsinfo@ayalocums.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Locum tenens agency matching physicians and advanced practice providers with healthcare facilities across the country, including Massachusetts.",
+    "certifications": [],
+    "services": [
+      "physician matching",
+      "advanced practice locums"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:13:05",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "best",
+        "great",
+        "fabulous",
+        "recruiter",
+        "facility",
+        "experience"
+      ],
+      "highlights": [
+        {
+          "text": "I feel like I've come to the best place",
+          "sentiment": "positive"
+        },
+        {
+          "text": "My recruiter has been fabulous to work with",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I've had a great experience with Aya and the facility",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Consistently positive feedback praising Aya Locums for exceptional recruiter support, quality facility assignments, and overall professional experience"
+    }
+  },
+  {
+    "slug": "barton-associates-boston",
+    "name": "Barton Associates",
+    "city": "Boston",
+    "state": "LA",
+    "address": "180 Wells Avenue, Newton, MA 02459",
+    "lat": 42.3601,
+    "lng": -71.0589,
+    "phone": "(888) 614-6262",
+    "website": "https://www.bartonassociates.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 4.6,
+    "review_count": 320,
+    "description": "National locum tenens agency placing healthcare professionals in Louisiana jobs across all specialties, with travel expenses covered.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:14:42",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.9,
+      "keywords": [],
+      "highlights": [
+        {
+          "text": "Fast placement for LA locum jobs",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Cover travel expenses fully",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Knowledgeable recruiters",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "National locum tenens agency placing healthcare professionals in Louisiana jobs across all specialties, with travel expenses covered."
+    }
+  },
+  {
+    "slug": "locumtenenscom-boston",
+    "name": "LocumTenens.com",
+    "city": "Boston",
+    "state": "MA",
+    "address": "",
+    "lat": 42.3601,
+    "lng": -71.0589,
+    "phone": "2147483647",
+    "website": "https://www.locumtenens.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Full-service locum tenens recruitment agency for physicians, advanced practitioners, psychologists, and social workers with onsite and virtual assignments.",
+    "certifications": [],
+    "services": [
+      "physician recruiting",
+      "psychologist placements",
+      "temp-to-perm"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:13:05",
+    "sentiment": null
+  },
+  {
+    "slug": "medicus-healthcare-solutions-boston",
+    "name": "Medicus Healthcare Solutions",
+    "city": "Boston",
+    "state": "MA",
+    "address": "",
+    "lat": 42.3601,
+    "lng": -71.0589,
+    "phone": "1066452224",
+    "website": "https://medicushcs.com",
+    "email": "info@medicushcs.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Provides locum tenens opportunities for physicians and advanced practitioners in Massachusetts and nationwide, focusing on high-demand locations.",
+    "certifications": [],
+    "services": [
+      "physician locums",
+      "advanced practitioner assignments"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:13:05",
+    "sentiment": null
+  },
+  {
+    "slug": "staffdocs-boston",
+    "name": "StaffDocs",
+    "city": "Boston",
+    "state": "MA",
+    "address": "",
+    "lat": 42.3601,
+    "lng": -71.0589,
+    "phone": "9999999999",
+    "website": "https://staffdocs.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Strategic partner for psychiatric and internal medicine locum tenens services with precision matching and personalized solutions.",
+    "certifications": [],
+    "services": [
+      "psychiatric locums",
+      "internal medicine staffing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:13:05",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "reliable",
+        "advocate",
+        "quick placement",
+        "physician-owned",
+        "client-focused",
+        "knowledgeable"
+      ],
+      "highlights": [
+        {
+          "text": "They acted as my advocate and quickly found me a position to fit my travel requirements",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I'm a single phone call away from speaking with someone with real clinical experience",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They put relationships and the needs of their clients first",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Everyone there is reliable, knowledgeable and dedicated",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "StaffDocs receives overwhelmingly positive reviews across all user segments, praised for reliable recruiting, physician-owned credibility, advocacy-driven approach, and strong relationships with clients."
+    }
+  },
+  {
+    "slug": "weatherby-healthcare-boston",
+    "name": "Weatherby Healthcare",
+    "city": "Boston",
+    "state": "MA",
+    "address": "",
+    "lat": 42.3601,
+    "lng": -71.0589,
+    "phone": "9543433050",
+    "website": "https://weatherbyhealthcare.com",
+    "email": "privacy@weatherbyhealthcare.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Locum tenens agency offering physician jobs in Massachusetts, including emergency medicine, psychiatry, anesthesiology, family practice, and more.",
+    "certifications": [],
+    "services": [
+      "emergency medicine locums",
+      "psychiatry telehealth",
+      "anesthesiology"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:13:05",
+    "sentiment": null
+  }
+]

@@ -1,0 +1,190 @@
+[
+  {
+    "slug": "amn-healthcare-omaha",
+    "name": "AMN Healthcare",
+    "city": "Omaha",
+    "state": "NE",
+    "address": "Not provided",
+    "lat": 41.2565,
+    "lng": -95.9345,
+    "phone": "Not provided",
+    "website": "https://www.amnhealthcare.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Healthcare staffing agency specializing in locum tenens surgery physician jobs in Nebraska with competitive compensation ranging from $423k-$815k annually.",
+    "certifications": [],
+    "services": [
+      "Locum tenens surgery physician placement",
+      "Temporary physician staffing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:15:05",
+    "sentiment": null
+  },
+  {
+    "slug": "all-medical-personnel-omaha",
+    "name": "All Medical Personnel",
+    "city": "Omaha",
+    "state": "NE",
+    "address": "Not provided",
+    "lat": 41.2565,
+    "lng": -95.9345,
+    "phone": "Not provided",
+    "website": "https://allmedical.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "National healthcare staffing agency serving Nebraska and the United States. Offers locum tenens, travel nursing, and allied health staffing services.",
+    "certifications": [],
+    "services": [
+      "Locum tenens",
+      "Travel nursing",
+      "Allied health staffing",
+      "Lab staffing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:15:05",
+    "sentiment": null
+  },
+  {
+    "slug": "barton-associates-omaha",
+    "name": "Barton Associates",
+    "city": "Omaha",
+    "state": "NE",
+    "address": "Not provided",
+    "lat": 41.2565,
+    "lng": -95.9345,
+    "phone": "Not provided",
+    "website": "https://www.bartonassociates.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Locum tenens staffing agency placing providers across 50+ US states and territories, including Nebraska. Specializes in Family Nurse Practitioners, Hospitalist Nurse Practitioners, Dentists, and other healthcare professionals.",
+    "certifications": [],
+    "services": [
+      "Locum tenens placement",
+      "Family medicine",
+      "Hospitalist services",
+      "Dental staffing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:15:05",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.97,
+      "keywords": [
+        "professional",
+        "helpful",
+        "responsive",
+        "pleased",
+        "communication",
+        "smooth"
+      ],
+      "highlights": [
+        {
+          "text": "met with the usual high standard of professionalism that I have come to expect",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I am very pleased with my agent. He is very helpful and great service.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "She listens to me and is a joy to work with.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Smooth comfortable service. Always prompt response.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Barton Associates receives overwhelmingly positive reviews, with clients consistently praising their professionalism, responsiveness, personalized attention, and the quality of their recruitment specialists."
+    }
+  },
+  {
+    "slug": "hayes-locums-omaha",
+    "name": "Hayes Locums",
+    "city": "Omaha",
+    "state": "NE",
+    "address": "Not provided",
+    "lat": 41.2565,
+    "lng": -95.9345,
+    "phone": "Not provided",
+    "website": "https://www.hayeslocums.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Locum tenens agency specializing in matching physicians and advanced practice clinicians to assignments. Provides support through search, licensing, credentialing, travel, and on-assignment assistance.",
+    "certifications": [],
+    "services": [
+      "Locum tenens placement",
+      "Licensing support",
+      "Credentialing",
+      "Travel coordination"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:15:05",
+    "sentiment": null
+  },
+  {
+    "slug": "weatherby-healthcare-omaha",
+    "name": "Weatherby Healthcare",
+    "city": "Omaha",
+    "state": "NE",
+    "address": "Not provided",
+    "lat": 41.2565,
+    "lng": -95.9345,
+    "phone": "(954) 618-5296",
+    "website": "https://weatherbyhealthcare.com",
+    "email": "privacy@weatherbyhealthcare.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Locum tenens staffing agency offering physician positions in Nebraska, including otolaryngology and family practice/obstetrics specialties.",
+    "certifications": [],
+    "services": [
+      "Locum tenens physician placement",
+      "Otolaryngology",
+      "Family practice",
+      "Obstetrics"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:15:05",
+    "sentiment": null
+  }
+]

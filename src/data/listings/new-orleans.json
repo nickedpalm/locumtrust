@@ -1,0 +1,48 @@
+[
+  {
+    "slug": "viemed-healthcare-staffing-new-orleans",
+    "name": "VieMed Healthcare Staffing",
+    "city": "New Orleans",
+    "state": "LA",
+    "address": "120 Rue Beauregard, Lafayette, LA 70508",
+    "lat": 29.9511,
+    "lng": -90.0715,
+    "phone": "(877) 558-4458",
+    "website": "https://www.viemedstaffing.com",
+    "email": "complaint@jointcommission.org",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 4.8,
+    "review_count": 150,
+    "description": "Locum tenens staffing agency providing contract and direct hire services for physicians and providers in Southwest Louisiana and nationwide.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:14:42",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [],
+      "highlights": [
+        {
+          "text": "Excellent locum tenens placements in Louisiana",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Responsive staff and great pay rates",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Smooth onboarding process",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Locum tenens staffing agency providing contract and direct hire services for physicians and providers in Southwest Louisiana and nationwide."
+    }
+  }
+]

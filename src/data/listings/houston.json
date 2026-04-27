@@ -1,0 +1,166 @@
+[
+  {
+    "slug": "barton-associates-houston",
+    "name": "Barton Associates",
+    "city": "Houston",
+    "state": "TX",
+    "address": "",
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "phone": "1120257450",
+    "website": "https://www.bartonassociates.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Specializes in locum tenens jobs placing physicians, nurse practitioners, physician assistants, and dentists across Texas and beyond.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:12:28",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.97,
+      "keywords": [
+        "professional",
+        "helpful",
+        "responsive",
+        "great service",
+        "attentive",
+        "smooth process"
+      ],
+      "highlights": [
+        {
+          "text": "usual high standard of professionalism that I have come to expect",
+          "sentiment": "positive"
+        },
+        {
+          "text": "very pleased with my agent. He is very helpful and great service",
+          "sentiment": "positive"
+        },
+        {
+          "text": "My consultant is great...She listens to me and is a joy to work with",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Smooth comfortable service. Always prompt response",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Barton Associates receives consistently strong praise for professional service, responsive staff, helpful consultants, and smooth recruitment experiences across all reviewed interactions."
+    }
+  },
+  {
+    "slug": "hsc-work-houston",
+    "name": "HSC Work",
+    "city": "Houston",
+    "state": "TX",
+    "address": "12401 S Post Oak Road, #D-1, Houston, Texas 77045",
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "phone": "713-357-7579",
+    "website": "https://hscwork.com",
+    "email": "Info@HSCWork.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Medical staffing and executive search firm offering locum tenens services.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:12:28",
+    "sentiment": null
+  },
+  {
+    "slug": "physician-resources-inc-houston",
+    "name": "Physician Resources, Inc.",
+    "city": "Houston",
+    "state": "TX",
+    "address": "",
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "phone": "713-522-5355",
+    "website": "https://physicianresources.com",
+    "email": "prihouston@physicianresources.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides locum tenens, temp-to-hire, and direct hire services for physicians throughout Texas since 1988, including family practice, OB/GYN, and pediatrics.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:12:28",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.92,
+      "keywords": [
+        "staffing",
+        "supportive",
+        "excellent",
+        "reliable",
+        "professional",
+        "recommend"
+      ],
+      "highlights": [
+        {
+          "text": "I would highly recommend PRI to others",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They do an excellent job and are always supportive",
+          "sentiment": "positive"
+        },
+        {
+          "text": "help us meet our staffing needs so that we may provide outstanding service",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Clinic Director strongly endorses Physician Resources, Inc. for reliable, excellent staffing support that enables outstanding patient care."
+    }
+  },
+  {
+    "slug": "provenir-healthcare-houston",
+    "name": "Provenir Healthcare",
+    "city": "Houston",
+    "state": "TX",
+    "address": "",
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "phone": "1777217274",
+    "website": "https://provenirhealthcare.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Premier Texas locum staffing firm connecting medical practices with qualified locum employees including various medical professionals.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:12:28",
+    "sentiment": null
+  }
+]

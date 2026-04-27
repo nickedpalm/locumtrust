@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "locum-tenens-onboarding-checklist",
+    "title": "Locum Tenens Onboarding Checklist",
+    "subtitle": "Slash locum onboarding time without sacrificing compliance standards",
+    "description": "Stop losing coverage windows to slow credentialing. This checklist ensures NALTO-aligned vetting, accelerates onboarding, and gets qualified locums on your floor\u2014protecting revenue and patient care.",
+    "bullets": [
+      "Reduce credentialing timeline from 14 days to 3 days",
+      "Verify NALTO status, licenses, and malpractice records instantly",
+      "Cut credential verification admin work by 85 percent",
+      "Fill same-day gaps without 35 percent agency markups"
+    ],
+    "pdfUrl": "/guides/pdf/locum-tenens-onboarding-checklist.pdf",
+    "category": "How-To"
+  },
+  {
+    "slug": "locum-tenens-rate-guide-2026",
+    "title": "Locum Tenens Rate Guide 2026",
+    "subtitle": "What you should pay for licensed locum tenens staffing in 2026",
+    "description": "Get current locum tenens rates by specialty and state to help your facility negotiate contracts and budget staffing gaps with confidence using NALTO-backed market data.",
+    "bullets": [
+      "Nine specialties across all U.S. states: hourly and daily rates",
+      "NALTO-credentialed agency benchmarks to evaluate vendor partnership costs",
+      "Metropolitan and rural pricing tiers for accurate region-based budgeting",
+      "Benchmark comparison reveals if your rates exceed market standard"
+    ],
+    "pdfUrl": "/guides/pdf/locum-tenens-rate-guide-2026.pdf",
+    "category": "Pricing"
+  },
+  {
+    "slug": "locum-tenens-vetting-guide",
+    "title": "Locum Tenens Vetting Guide",
+    "subtitle": "Verify Locum Credentials Fast\u2014Without Missing Red Flags",
+    "description": "Screen locum candidates against DEA registries, state medical boards, malpractice databases, and NALTO credentials in minutes\u2014ensuring safe placements without delays that leave units understaffed.",
+    "bullets": [
+      "Screen against all 50 state medical board databases instantly",
+      "Catch disciplinary actions, malpractice claims, and lapsed DEA registration",
+      "Verify NALTO membership and active professional liability insurance",
+      "Eliminate credential gaps before they become liability risks"
+    ],
+    "pdfUrl": "/guides/pdf/locum-tenens-vetting-guide.pdf",
+    "category": "Vetting"
+  }
+]

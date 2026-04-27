@@ -1,0 +1,150 @@
+[
+  {
+    "slug": "barton-associates-baltimore",
+    "name": "Barton Associates",
+    "city": "Baltimore",
+    "state": "MD",
+    "address": "",
+    "lat": 39.2904,
+    "lng": -76.6122,
+    "phone": "1120257450",
+    "website": "https://www.bartonassociates.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Full-service locum tenens agency placing physicians, nurse practitioners, and other healthcare professionals in temporary assignments across Maryland and nationwide.",
+    "certifications": [],
+    "services": [
+      "locum tenens physician jobs",
+      "nurse practitioner assignments",
+      "healthcare staffing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:13:27",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "professional",
+        "responsive",
+        "helpful",
+        "reliable",
+        "communication",
+        "personable"
+      ],
+      "highlights": [
+        {
+          "text": "I am very pleased with my agent. He is very helpful and great service.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "She listens to me and is a joy to work with.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Always prompt response.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "usual high standard of professionalism",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Barton Associates receives overwhelmingly positive reviews praising professionalism, responsiveness, and personable staff relationships, with zero negative feedback."
+    }
+  },
+  {
+    "slug": "interim-healthcare-baltimore",
+    "name": "Interim HealthCare",
+    "city": "Baltimore",
+    "state": "MD",
+    "address": "",
+    "lat": 39.2904,
+    "lng": -76.6122,
+    "phone": "1777217143",
+    "website": "https://www.interimhealthcare.com/service-area/medical-staffing/md",
+    "email": "wehearyou@interimhealthcare.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Medical staffing agency providing locum tenens physicians, nurse practitioners, physician assistants, nursing, and allied health professionals across Maryland.",
+    "certifications": [],
+    "services": [
+      "locum tenens physicians",
+      "NPs and PAs",
+      "travel nursing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:13:27",
+    "sentiment": null
+  },
+  {
+    "slug": "mdstaffers-baltimore",
+    "name": "MDstaffers",
+    "city": "Baltimore",
+    "state": "MD",
+    "address": "",
+    "lat": 39.2904,
+    "lng": -76.6122,
+    "phone": "(866) 90-STAFF",
+    "website": "https://mdstaffers.com",
+    "email": "info@mdstaffers.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Locum tenens recruiter offering full-service experience including credentialing, onboarding, weekly payroll, and malpractice insurance for doctors.",
+    "certifications": [],
+    "services": [
+      "locum tenens placements",
+      "credentialing assistance",
+      "malpractice insurance"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:13:27",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "excellent candidates",
+        "expert support",
+        "class and honesty",
+        "quick service",
+        "reasonable fees"
+      ],
+      "highlights": [
+        {
+          "text": "MDstaffers provides excellent candidates, and their fees are reasonable",
+          "sentiment": "positive"
+        },
+        {
+          "text": "your company far surpasses any others with class and honesty",
+          "sentiment": "positive"
+        },
+        {
+          "text": "MDstaffers helped me secure a great locum tenens assignment quickly!",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "MDstaffers receives consistently positive reviews praising excellent candidates, expert support, competitive pricing, and honest professional service in locum tenens staffing."
+    }
+  }
+]

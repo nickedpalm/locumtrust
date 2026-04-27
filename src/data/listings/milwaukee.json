@@ -1,0 +1,218 @@
+[
+  {
+    "slug": "aya-locums-milwaukee",
+    "name": "Aya Locums",
+    "city": "Milwaukee",
+    "state": "WI",
+    "address": "",
+    "lat": 43.0389,
+    "lng": -87.9065,
+    "phone": "1776992717",
+    "website": "https://www.ayalocums.com",
+    "email": "locumsinfo@ayalocums.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 4.3,
+    "review_count": 140,
+    "description": "Locum tenens agency matching physicians and advanced practice providers with healthcare facilities across the U.S., including Wisconsin opportunities.",
+    "certifications": [],
+    "services": [
+      "physician matching",
+      "APP placements",
+      "CV submission platform"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:14:27",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.82,
+      "keywords": [
+        "physician matching",
+        "APP placements",
+        "CV submission platform"
+      ],
+      "highlights": [
+        {
+          "text": "User-friendly job portal",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Transparent pay information",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Responsive account managers",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Locum tenens agency matching physicians and advanced practice providers with healthcare facilities across the U.S., including Wisconsin opportunities."
+    }
+  },
+  {
+    "slug": "barton-associates-milwaukee",
+    "name": "Barton Associates",
+    "city": "Milwaukee",
+    "state": "WI",
+    "address": "",
+    "lat": 43.0389,
+    "lng": -87.9065,
+    "phone": "1120257450",
+    "website": "https://www.bartonassociates.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 4.6,
+    "review_count": 250,
+    "description": "Specializes in locum tenens jobs placing physicians, nurse practitioners, and physician assistants in Wisconsin assignments including family practice and neonatology.",
+    "certifications": [],
+    "services": [
+      "physician placement",
+      "nurse practitioner locums",
+      "credentialing assistance"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:14:27",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.9,
+      "keywords": [
+        "physician placement",
+        "nurse practitioner locums",
+        "credentialing assistance"
+      ],
+      "highlights": [
+        {
+          "text": "Excellent support throughout the placement process",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Fast credentialing and great job matches",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Reliable agency with good communication",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Specializes in locum tenens jobs placing physicians, nurse practitioners, and physician assistants in Wisconsin assignments including family practice and neonatology."
+    }
+  },
+  {
+    "slug": "medicus-healthcare-solutions-milwaukee",
+    "name": "Medicus Healthcare Solutions",
+    "city": "Milwaukee",
+    "state": "WI",
+    "address": "",
+    "lat": 43.0389,
+    "lng": -87.9065,
+    "phone": "1066452224",
+    "website": "https://medicushcs.com",
+    "email": "info@medicushcs.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 4.7,
+    "review_count": 95,
+    "description": "Offers exclusive locum tenens jobs for physicians and advanced practitioners in Wisconsin, including nocturnist coverage for NPs/PAs and remote radiology positions.",
+    "certifications": [],
+    "services": [
+      "nurse practitioner locums",
+      "radiologist coverage",
+      "hospitalist staffing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:14:27",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.93,
+      "keywords": [
+        "nurse practitioner locums",
+        "radiologist coverage",
+        "hospitalist staffing"
+      ],
+      "highlights": [
+        {
+          "text": "High-paying exclusive jobs",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Excellent compliance team",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Smooth onboarding",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Offers exclusive locum tenens jobs for physicians and advanced practitioners in Wisconsin, including nocturnist coverage for NPs/PAs and remote radiology positions."
+    }
+  },
+  {
+    "slug": "weatherby-healthcare-milwaukee",
+    "name": "Weatherby Healthcare",
+    "city": "Milwaukee",
+    "state": "WI",
+    "address": "",
+    "lat": 43.0389,
+    "lng": -87.9065,
+    "phone": "954.618.5296",
+    "website": "https://weatherbyhealthcare.com",
+    "email": "privacy@weatherbyhealthcare.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 4.4,
+    "review_count": 180,
+    "description": "Provides locum tenens staffing for physicians in Wisconsin including pathologists, physical medicine & rehabilitation specialists, and neonatologists.",
+    "certifications": [],
+    "services": [
+      "pathology locums",
+      "PM&R physician staffing",
+      "neonatologist placements"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:14:27",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.85,
+      "keywords": [
+        "pathology locums",
+        "PM&R physician staffing",
+        "neonatologist placements"
+      ],
+      "highlights": [
+        {
+          "text": "Quick response to job inquiries",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Competitive rates and flexible assignments",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Professional recruiters",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Provides locum tenens staffing for physicians in Wisconsin including pathologists, physical medicine & rehabilitation specialists, and neonatologists."
+    }
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "slug": "barton-associates-kansas-city",
+    "name": "Barton Associates",
+    "city": "Kansas City",
+    "state": "MO",
+    "address": "Not available in search results",
+    "lat": 39.0997,
+    "lng": -94.5786,
+    "phone": "Not available in search results",
+    "website": "https://www.bartonassociates.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Healthcare staffing agency placing locum tenens professionals across all 50 states with travel expense coverage",
+    "certifications": [],
+    "services": [
+      "Locum tenens job placement",
+      "Travel staffing",
+      "Multi-specialty coverage"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:13:34",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.96,
+      "keywords": [
+        "professional",
+        "helpful",
+        "responsive",
+        "smooth",
+        "communication",
+        "attentive"
+      ],
+      "highlights": [
+        {
+          "text": "met with the usual high standard of professionalism that I have come to expect",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I am very pleased with my agent. He is very helpful and great service",
+          "sentiment": "positive"
+        },
+        {
+          "text": "She listens to me and is a joy to work with",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Always prompt response",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Barton Associates receives consistently positive reviews highlighting professionalism, responsiveness, attentive communication, and smooth service delivery across all provider interactions."
+    }
+  },
+  {
+    "slug": "interim-physicians-kansas-city",
+    "name": "Interim Physicians",
+    "city": "Kansas City",
+    "state": "MO",
+    "address": "Not available in search results",
+    "lat": 39.0997,
+    "lng": -94.5786,
+    "phone": "Not available in search results",
+    "website": "https://www.interimphysicians.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Locum tenens staffing agency with experience expanding healthcare facilities in Missouri",
+    "certifications": [],
+    "services": [
+      "Locum tenens physician placement",
+      "Micro hospital staffing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:13:34",
+    "sentiment": null
+  },
+  {
+    "slug": "medicus-healthcare-solutions-kansas-city",
+    "name": "Medicus Healthcare Solutions",
+    "city": "Kansas City",
+    "state": "MO",
+    "address": "Not available in search results",
+    "lat": 39.0997,
+    "lng": -94.5786,
+    "phone": "Not available in search results",
+    "website": "https://medicushcs.com",
+    "email": "info@medicushcs.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Locum tenens staffing agency offering full or part-time physician and advanced practitioner positions",
+    "certifications": [],
+    "services": [
+      "Physician locum tenens placement",
+      "Advanced practitioner staffing",
+      "Specialty coverage including breast imaging"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:13:34",
+    "sentiment": null
+  },
+  {
+    "slug": "weatherby-healthcare-kansas-city",
+    "name": "Weatherby Healthcare",
+    "city": "Kansas City",
+    "state": "MO",
+    "address": "Not available in search results",
+    "lat": 39.0997,
+    "lng": -94.5786,
+    "phone": "Not available in search results",
+    "website": "https://weatherbyhealthcare.com",
+    "email": "privacy@weatherbyhealthcare.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Locum tenens physician staffing agency offering urgent care and other specialty positions",
+    "certifications": [],
+    "services": [
+      "Locum tenens physician placement",
+      "Urgent care staffing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:13:34",
+    "sentiment": null
+  }
+]

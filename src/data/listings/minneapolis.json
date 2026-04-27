@@ -1,0 +1,140 @@
+[
+  {
+    "slug": "interim-healthcare-of-minnesota-minneapolis",
+    "name": "Interim HealthCare of Minnesota",
+    "city": "Minneapolis",
+    "state": "MN",
+    "address": "",
+    "lat": 44.9778,
+    "lng": -93.265,
+    "phone": "1777217146",
+    "website": "https://www.interimhealthcare.com/service-area/medical-staffing/mn",
+    "email": "wehearyou@interimhealthcare.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 4.2,
+    "review_count": 80,
+    "description": "Medical staffing agency in Minnesota providing locum tenens physicians, nurse practitioners, physician assistants, and nursing staff.[6]",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:14:05",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.8,
+      "keywords": [],
+      "highlights": [
+        {
+          "text": "Efficient medical staffing in MN",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Fills locum tenens physician roles quickly",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Wide range of healthcare positions",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Medical staffing agency in Minnesota providing locum tenens physicians, nurse practitioners, physician assistants, and nursing staff.[6]"
+    }
+  },
+  {
+    "slug": "mplt-healthcare-minneapolis",
+    "name": "MPLT Healthcare",
+    "city": "Minneapolis",
+    "state": "MN",
+    "address": "",
+    "lat": 44.9778,
+    "lng": -93.265,
+    "phone": "1774264336",
+    "website": "https://www.mplthealthcare.com",
+    "email": "hq@mplthealthcare.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 4.8,
+    "review_count": 50,
+    "description": "Nationwide physician and advanced practice staffing with locum tenens services for healthcare facilities, strong presence in Minnesota.[9]",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:14:05",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [],
+      "highlights": [
+        {
+          "text": "Proven locum tenens placements nationwide",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Qualified providers for MN facilities",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Excellent track record",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Nationwide physician and advanced practice staffing with locum tenens services for healthcare facilities, strong presence in Minnesota.[9]"
+    }
+  },
+  {
+    "slug": "weatherby-healthcare-minneapolis",
+    "name": "Weatherby Healthcare",
+    "city": "Minneapolis",
+    "state": "MN",
+    "address": "",
+    "lat": 44.9778,
+    "lng": -93.265,
+    "phone": "9543433050",
+    "website": "https://weatherbyhealthcare.com",
+    "email": "privacy@weatherbyhealthcare.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 4.5,
+    "review_count": 150,
+    "description": "Provides locum tenens physician jobs in Minnesota, including emergency medicine, urology, and cardiology positions.[1]",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:14:05",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.88,
+      "keywords": [],
+      "highlights": [
+        {
+          "text": "Excellent support for locum assignments in MN",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Fast credentialing process",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Great communication throughout",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Provides locum tenens physician jobs in Minnesota, including emergency medicine, urology, and cardiology positions.[1]"
+    }
+  }
+]

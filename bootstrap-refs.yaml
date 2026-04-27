@@ -1,0 +1,165 @@
+generated_at: '2026-04-27T01:49:49+00:00'
+refs:
+  cf.d1_db:
+    extra:
+      binding_name: LEADS_DB
+    id: 2bebcbf7-c773-41fa-b941-35b7b2ba3176
+    kind: cf.d1_db
+    name: directory_locumtrust
+  cf.dns_records:
+    extra:
+      content: locumtrust.pages.dev
+      zone_id: e0ee45d576c58945f703106e6ce7e1f6
+    id: b9935791504060dd514e10e25de3b692
+    kind: cf.dns_records
+    name: locumtrust.com
+  cf.email_routing:
+    extra:
+      enabled: true
+    id: e0ee45d576c58945f703106e6ce7e1f6
+    kind: cf.email_routing
+    name: locumtrust.com
+  cf.pages_project:
+    extra:
+      subdomain: locumtrust.pages.dev
+    id: locumtrust
+    kind: cf.pages_project
+    name: locumtrust
+  cf.r2_bucket:
+    extra:
+      binding_name: PHOTOS
+    id: locumtrust-photos
+    kind: cf.r2_bucket
+    name: locumtrust-photos
+  cf.turnstile:
+    extra:
+      secret: ''
+      soft_skipped: widget_cap
+    id: ''
+    kind: cf.turnstile
+    name: locumtrust
+  content.enrich:
+    extra:
+      exported: 95
+    id: /home/nick/directory-factory/factory/verticals/locumtrust/src/data/listings
+    kind: content.enrich
+    name: locumtrust
+  content.faqs:
+    extra:
+      count: 12
+    id: /home/nick/directory-factory/factory/verticals/locumtrust/src/data/faqs.json
+    kind: content.faqs
+    name: locumtrust
+  content.generate:
+    extra:
+      blog_posts: 17
+      cities: 68
+    id: /home/nick/directory-factory/factory/verticals/locumtrust/src/content
+    kind: content.generate
+    name: locumtrust
+  content.images:
+    extra:
+      articles: '17'
+      cities: '68'
+    id: /home/nick/directory-factory/factory/verticals/locumtrust/images.json
+    kind: content.images
+    name: locumtrust
+  content.interlink:
+    extra:
+      stamp_mtime: '1777233619.0687745'
+    id: /home/nick/directory-factory/factory/verticals/locumtrust/.interlink-stamp
+    kind: content.interlink
+    name: locumtrust
+  content.lead_magnets:
+    extra:
+      count: 3
+    id: /home/nick/directory-factory/factory/verticals/locumtrust/src/data/guides.json
+    kind: content.lead_magnets
+    name: locumtrust
+  content.scrape:
+    extra:
+      count: 95
+    id: /home/nick/directory-factory/factory/verticals/locumtrust/pipeline.db
+    kind: content.scrape
+    name: locumtrust
+  d1.migrations:
+    extra:
+      applied: 8
+    id: directory_locumtrust
+    kind: d1.migrations
+    name: locumtrust
+  ga4.property:
+    extra:
+      measurement_id: G-72CGDGDFGH
+    id: G-72CGDGDFGH
+    kind: ga4.property
+    name: locumtrust
+  github.repo:
+    extra: {}
+    id: nickedpalm/locumtrust
+    kind: github.repo
+    name: nickedpalm/locumtrust
+  gsc.verify:
+    extra:
+      api_verified: true
+      content: google-site-verification=3t6WCNAeq7dVeM6FncS5NoLVkXhvq1JgZukxQfCp824
+    id: a8ce5b44cfa4b1180f63692bfb1af896
+    kind: gsc.verify
+    name: locumtrust.com
+  listmonk.api_user:
+    extra:
+      password: ebkahsLs0esEUpdurYsguJVhbsgz5N07
+    id: locumtrust-api
+    kind: listmonk.api_user
+    name: locumtrust-api
+  listmonk.list:
+    extra: {}
+    id: '19'
+    kind: listmonk.list
+    name: LocumTrust Newsletter
+  listmonk.templates:
+    extra:
+      guide_delivery: '61'
+      lead_notify: '60'
+      magic_link: '59'
+    id: 59,60,61
+    kind: listmonk.templates
+    name: locumtrust
+  local.colors:
+    extra:
+      primary: '#4177be'
+    id: /home/nick/directory-factory/factory/verticals/locumtrust/colors.json
+    kind: local.colors
+    name: locumtrust
+  local.logos:
+    extra:
+      copied: 11
+    id: /home/nick/directory-factory/factory/verticals/locumtrust/public
+    kind: local.logos
+    name: locumtrust
+  local.scaffold:
+    extra:
+      domain: locumtrust.com
+    id: /home/nick/directory-factory/factory/verticals/locumtrust/vertical.json
+    kind: local.scaffold
+    name: locumtrust
+  local.template_sync:
+    extra:
+      count: '20'
+      synced: src/components,src/pages,src/layouts,src/utils,src/lib,src/scripts,src/types,src/assets/styles,src/assets/fonts,_functions,migrations,src/config.ts,src/env.d.ts,src/types.d.ts,src/navigation.ts,astro.config.ts,tailwind.config.js,tsconfig.json,public/_headers,public/_redirects
+    id: /home/nick/directory-factory/factory/verticals/locumtrust
+    kind: local.template_sync
+    name: locumtrust
+  ses.domain_verify:
+    extra:
+      dkim_count: 3
+    id: locumtrust.com
+    kind: ses.domain_verify
+    name: locumtrust.com
+  stripe.sync:
+    extra:
+      city_pro_product_id: prod_UFN21C5ZH3Nyxw
+      featured_product_id: prod_UFN2PxfIAqLgJE
+    id: prod_UFN2PxfIAqLgJE
+    kind: stripe.sync
+    name: locumtrust

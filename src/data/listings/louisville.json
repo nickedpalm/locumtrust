@@ -1,0 +1,125 @@
+[
+  {
+    "slug": "barton-associates-louisville",
+    "name": "Barton Associates",
+    "city": "Louisville",
+    "state": "KY",
+    "address": "",
+    "lat": 38.2527,
+    "lng": -85.7585,
+    "phone": "1120257450",
+    "website": "https://www.bartonassociates.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "National locum tenens staffing agency placing physicians, dentists, and advanced practitioners in temporary assignments at facilities across Kentucky, including various specialties like vascular/interventional radiology.",
+    "certifications": [],
+    "services": [
+      "locum tenens physician staffing",
+      "dentist assignments",
+      "credentialing support"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:14:53",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "professionalism",
+        "prompt response",
+        "happy",
+        "great service",
+        "helpful agents",
+        "smooth process"
+      ],
+      "highlights": [
+        {
+          "text": "I have no complaints about Barton; the interactions were met with the usual high standard of professionalism.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I am happy with the service and relationship I have with the Barton Associates Locum Tenens Recruitment Specialist.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "She listens to me and is a joy to work with.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Always prompt response. Smooth comfortable service.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Barton Associates maintains an excellent reputation with universally positive reviews praising their professional staff, responsive communication, and quality agent relationships."
+    }
+  },
+  {
+    "slug": "interim-healthcare-louisville",
+    "name": "Interim HealthCare",
+    "city": "Louisville",
+    "state": "KY",
+    "address": "",
+    "lat": 38.2527,
+    "lng": -85.7585,
+    "phone": "1777217145",
+    "website": "https://www.interimhealthcare.com",
+    "email": "Group-150@2x.svg",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Leading medical staffing agency in Kentucky providing locum tenens physicians, nurse practitioners, physician assistants, alongside nursing and allied health professionals.",
+    "certifications": [],
+    "services": [
+      "locum tenens physicians",
+      "NP and PA staffing",
+      "travel nursing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:14:53",
+    "sentiment": null
+  },
+  {
+    "slug": "locumtenenscom-louisville",
+    "name": "LocumTenens.com",
+    "city": "Louisville",
+    "state": "KY",
+    "address": "",
+    "lat": 38.2527,
+    "lng": -85.7585,
+    "phone": "2147483647",
+    "website": "https://www.locumtenens.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Full-service healthcare staffing agency and job board listing family practice and hospitalist locum tenens opportunities in southern Kentucky.",
+    "certifications": [],
+    "services": [
+      "family practice locums",
+      "hospitalist coverage",
+      "daily job postings"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:14:53",
+    "sentiment": null
+  }
+]

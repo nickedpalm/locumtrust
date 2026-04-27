@@ -1,0 +1,177 @@
+[
+  {
+    "slug": "aya-locums-virginia-beach",
+    "name": "Aya Locums",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "address": "",
+    "lat": 36.8529,
+    "lng": -75.978,
+    "phone": "1776992717",
+    "website": "https://www.ayalocums.com",
+    "email": "locumsinfo@ayalocums.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Locum tenens agency matching physicians and advanced practice providers with healthcare facilities across the country, including Virginia opportunities.",
+    "certifications": [],
+    "services": [
+      "CV submission",
+      "job browsing",
+      "assignment applications"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:13:18",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "great experience",
+        "fabulous recruiter",
+        "best place",
+        "professional support",
+        "facility quality"
+      ],
+      "highlights": [
+        {
+          "text": "I feel like I've come to the best place. I've had a great experience with Aya",
+          "sentiment": "positive"
+        },
+        {
+          "text": "My recruiter has been fabulous to work with.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Aya Locums receives strong praise for excellent recruiter relationships, quality facility assignments, and outstanding overall candidate experience."
+    }
+  },
+  {
+    "slug": "locumtenenscom-virginia-beach",
+    "name": "LocumTenens.com",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "address": "",
+    "lat": 36.8529,
+    "lng": -75.978,
+    "phone": "2147483647",
+    "website": "https://www.locumtenens.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Full-service recruitment agency specializing in temporary and temp-to-perm locum tenens placements for physicians, advanced practitioners, psychologists, and social workers nationwide, including Virginia.",
+    "certifications": [],
+    "services": [
+      "physician recruiting",
+      "onsite and virtual staffing",
+      "healthcare organization placements"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:13:18",
+    "sentiment": null
+  },
+  {
+    "slug": "medicus-healthcare-solutions-virginia-beach",
+    "name": "Medicus Healthcare Solutions",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "address": "",
+    "lat": 36.8529,
+    "lng": -75.978,
+    "phone": "1066452224",
+    "website": "https://medicushcs.com",
+    "email": "info@medicushcs.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Offers exclusive locum tenens jobs for physicians and advanced practitioners across the United States, including Virginia.",
+    "certifications": [],
+    "services": [
+      "full-time and part-time locum careers",
+      "physician staffing",
+      "advanced practitioner placements"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:13:18",
+    "sentiment": null
+  },
+  {
+    "slug": "plexsum-staffing-solutions-virginia-beach",
+    "name": "Plexsum Staffing Solutions",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "address": "",
+    "lat": 36.8529,
+    "lng": -75.978,
+    "phone": "1777217244",
+    "website": "https://plexsum.com",
+    "email": "AccreditoryRegulatory@plexsum.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Full-service healthcare staffing firm providing locum tenens physicians, nurses, and allied health professionals to VA hospitals and government facilities nationwide.",
+    "certifications": [],
+    "services": [
+      "VA medical staffing",
+      "government clinician jobs",
+      "nursing recruitment"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:13:18",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.96,
+      "keywords": [
+        "supportive",
+        "professional",
+        "family-oriented",
+        "helpful",
+        "competitive benefits",
+        "dependable"
+      ],
+      "highlights": [
+        {
+          "text": "Everyone treats you like family and wants what's best for you",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I strongly recommend Plexsum as your highly skilled, professional choice",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Working with Plexsum has given me confidence through personal support",
+          "sentiment": "positive"
+        },
+        {
+          "text": "We'd welcome her back any time",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Overwhelmingly positive reputation with employees and healthcare facilities praising supportive culture, professional quality, competitive benefits, and genuine care for employee development."
+    }
+  }
+]

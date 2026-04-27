@@ -1,0 +1,50 @@
+[
+  {
+    "question": "How much does locum tenens coverage cost compared to a permanent hire?",
+    "answer": "Locum tenens is more expensive per hour than a permanent physician when accounting for agency fees, travel, housing, and malpractice coverage. However, an unfilled shift typically costs a facility more in lost revenue than the locum premium. The real comparison is locum cost versus the revenue loss and patient care disruption of leaving the position vacant."
+  },
+  {
+    "question": "What is included in locum tenens agency fees, and are there hidden costs?",
+    "answer": "Agency fees typically bundle the physician's daily rate, malpractice tail coverage, travel, and housing, but the breakdown varies. Some agencies charge facilities separately for licensing or credentialing expediting. Request an itemized cost structure upfront and clarify who covers incidentals like rental cars or per diems to avoid budget surprises mid-assignment."
+  },
+  {
+    "question": "How quickly can a locum tenens agency fill an urgent physician vacancy?",
+    "answer": "For common specialties, agencies can deploy a provider within days to a few weeks if credentialing is expedited and the physician is already licensed in your state. Complex specialties or rural locations can take longer. Planning 180 days ahead is the industry benchmark for non-emergency coverage; urgent fills under two weeks are possible but carry higher cost and lower candidate selection."
+  },
+  {
+    "question": "How long does credentialing and privileging take for a locum tenens physician?",
+    "answer": "Credentialing typically takes 30 to 90 days depending on your facility's privileging process and the physician's existing state licenses. Experienced locums who travel frequently often have licenses in multiple states and a completed credentials packet, which accelerates the process. Delays are the leading cause of failed urgent placements, so starting credentialing immediately upon identifying a candidate is critical."
+  },
+  {
+    "question": "How do locum tenens agencies screen and verify provider qualifications?",
+    "answer": "Reputable agencies verify board certification, current state licensure, malpractice history, employment gaps, references from recent assignments, and DEA registration. Many also track performance ratings from prior facilities. This vetting is often more rigorous than a standard permanent hire process because agencies bear reputational risk if a provider fails at placement. Ask agencies specifically how they handle candidates with short assignment histories."
+  },
+  {
+    "question": "Do locum tenens providers carry malpractice insurance, and what are the coverage terms?",
+    "answer": "Most agencies provide occurrence-based or claims-made malpractice coverage with tail, but coverage limits and exclusions vary significantly. Confirm the per-occurrence and aggregate limits, whether tail coverage is included if the physician does not return, and whether your state has minimum coverage requirements. Do not assume coverage is equivalent to your facility's existing policy."
+  },
+  {
+    "question": "How flexible are assignment lengths \u2014 can we use locums for a single week versus several months?",
+    "answer": "Assignments range from single shifts to open-ended placements lasting six months or more. Common structures include 7-on/7-off rotations, block coverage during a permanent physician's leave, or full-time bridging during a recruitment gap. Most agencies can customize scheduling, but very short assignments (under two weeks) are less attractive to experienced locums and may limit your candidate pool."
+  },
+  {
+    "question": "How do I evaluate whether an agency has real experience in our specialty and region?",
+    "answer": "Ask for the number of placements completed in your specialty over the past 12 months, average fill rate, and typical time-to-start in your state. Agencies with deep specialty networks will have credentialed candidates already licensed locally. Generic claims of broad coverage are a weaker signal than specific fill rate data or references from comparable facilities in your region."
+  },
+  {
+    "question": "What references or performance data can agencies provide about candidates?",
+    "answer": "Beyond a CV, agencies should be able to share facility ratings from prior assignments, number of repeat contracts with the same employer, and patient volume benchmarks from comparable placements. If an agency cannot provide any third-party performance history and only offers self-reported information, treat that as a red flag. A strong locum will have a track record of return engagements."
+  },
+  {
+    "question": "What are the warning signs of a low-quality locum tenens agency or candidate?",
+    "answer": "Agency-side red flags include inability to provide verifiable placement references, pressure to skip standard credentialing steps, and vague answers on malpractice coverage. Candidate-side red flags include unexplained CV gaps, a pattern of very short assignments at multiple facilities, or resistance to providing direct facility references. Providers who cycle frequently across agencies sometimes do so because poor ratings follow them."
+  },
+  {
+    "question": "Will using locum tenens providers affect our ability to hire them permanently later?",
+    "answer": "Most agency contracts include a conversion fee if you hire a locum directly within a defined period, typically 12 to 24 months. These fees are negotiable and sometimes waivable after a minimum assignment length. Clarify buyout terms before the assignment starts if permanent recruitment is a possibility, since surprise conversion fees can strain the hiring budget significantly."
+  },
+  {
+    "question": "How should we compare bids from multiple locum tenens agencies?",
+    "answer": "Normalize bids to total cost per shift or per day, including all agency fees, travel, housing, and malpractice, not just the physician's stated rate. Evaluate fill rate history and average time-to-start for your specialty alongside price. The lowest-cost agency that cannot reliably fill your position on schedule provides no value, so weight delivery track record at least equally with rate."
+  }
+]

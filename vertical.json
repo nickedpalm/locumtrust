@@ -1,0 +1,169 @@
+{
+  "name": "Locum Tenens Agencies",
+  "brandName": "LocumTrust",
+  "slug": "locumtrust",
+  "domain": "locumtrust.com",
+  "siteUrl": "https://locumtrust.com",
+  "tagline": "Vetted locum tenens agencies, independently rated.",
+  "description": "The most comprehensive directory of NALTO-member locum tenens agencies, independently rated by hospital administrators and clinic managers across the United States.",
+  "jobValue": "$20,000\u2013$150,000 per contract",
+  "industry": "medical",
+  "primaryKeyword": "locum tenens agency",
+  "secondaryKeywords": [
+    "temporary physician staffing",
+    "locum doctor placement",
+    "physician staffing agency",
+    "interim physician coverage",
+    "locum tenens credentialing",
+    "physician vacancy coverage"
+  ],
+  "certifications": [
+    "NALTO Member (National Association of Locum Tenens Organizations)",
+    "Joint Commission Certified Staffing Organization",
+    "NCQA Credentialing Accreditation",
+    "URAC Health Network Accreditation",
+    "NAPR Member (National Association of Physician Recruiters)",
+    "ISO 9001 Certified Credentialing Process"
+  ],
+  "extraFields": [],
+  "cityPagePromptContext": "Locum tenens agencies source, credential, and place temporary physicians and advanced practice providers in hospitals, clinics, and health systems.\nQualified agencies (NALTO members, NCQA-credentialed) manage primary source verification, malpractice coverage, licensing, and travel logistics. Administrators hire them during unexpected physician departures, extended leave, seasonal demand surges, or while recruiting permanent staff. Engagements range from single weekend shifts to multi-month contracts across virtually every specialty. Top-tier agencies are distinguished by specialty depth, credentialing speed, and guarantee policies.\n",
+  "contactEmail": "contact@locumtrust.com",
+  "buyerPersona": "hospital CMOs and clinic administrators",
+  "servicePhrase": "locum tenens placement",
+  "primaryCredential": "NALTO",
+  "buyerSearchContext": "when experiencing unexpected physician vacancies, covering peak-demand periods, or bridging staffing gaps during permanent provider recruitment",
+  "editorialAuthor": {
+    "name": "Nick Palmer",
+    "title": "Founder & Lead Researcher",
+    "bio": "Nick built this directory to help hospital administrators find reputable locum tenens agencies without wading through vendors who oversell their provider networks \u2014 a credibility gap he discovered while researching physician staffing options for a rural health system facing an unexpected specialist vacancy.",
+    "linkedin": "https://linkedin.com/in/nickedpalmer"
+  },
+  "stripeSponsoredLink": "",
+  "stripeCityProLink": "",
+  "stripeFeaturedMonthlyLink": "https://buy.stripe.com/cNiaEWazo49qgxSaUxa3u3Q",
+  "stripeFeaturedAnnualLink": "https://buy.stripe.com/fZu5kCazodK05Te8Mpa3u3R",
+  "stripeCityProMonthlyLink": "https://buy.stripe.com/28E8wO22S9tKbdy7Ila3u3S",
+  "stripeCityProAnnualLink": "https://buy.stripe.com/4gMfZg5f4fS8gxSbYBa3u3T",
+  "stripeFeaturedProductId": "prod_UFN2PxfIAqLgJE",
+  "stripeCityProProductId": "prod_UFN21C5ZH3Nyxw",
+  "stripeFeaturedMonthlyPriceId": "price_1TQeItCIgRyRDQ2PTLeXYCJ6",
+  "stripeFeaturedAnnualPriceId": "price_1TQeIuCIgRyRDQ2PHbiXyh7Z",
+  "stripeCityProMonthlyPriceId": "price_1TQeIwCIgRyRDQ2PicUh8lb8",
+  "stripeCityProAnnualPriceId": "price_1TQeIxCIgRyRDQ2Pqrk8ADTg",
+  "pricing": {
+    "featuredMonthlyUsd": 49,
+    "featuredAnnualUsd": 441,
+    "cityProMonthlyUsd": 149,
+    "cityProAnnualUsd": 1341
+  },
+  "listmonkListId": "19",
+  "listmonkTplMagicLink": "59",
+  "listmonkTplLeadNotify": "60",
+  "listmonkTplGuideDelivery": "61",
+  "ga4MeasurementId": "G-72CGDGDFGH",
+  "turnstileSitekey": "",
+  "turnsiteSitekey": "",
+  "googleAnalyticsId": "G-72CGDGDFGH",
+  "foundedYear": 2026,
+  "listings": {
+    "schema": [
+      {
+        "key": "nalto_member",
+        "type": "boolean",
+        "label": "NALTO Member Agency",
+        "display": "badge",
+        "facet": true,
+        "scrape_hint": "Look for NALTO membership logos, \"NALTO member\" text, or listings on nalto.org member directory; also check About page, footer, or accreditations section for explicit membership claims."
+      },
+      {
+        "key": "years_in_business",
+        "type": "number",
+        "label": "Years in Business",
+        "display": "range",
+        "facet": false,
+        "unit": "years",
+        "scrape_hint": "Extract from 'Founded in', 'Serving clients since', or 'X years of experience' statements on About page or homepage; calculate from founding year if provided."
+      },
+      {
+        "key": "specialties_placed",
+        "type": "multi_enum",
+        "label": "Physician Specialties Placed",
+        "display": "pill_list",
+        "facet": true,
+        "enum": [
+          "Emergency Medicine",
+          "Hospitalist / Internal Medicine",
+          "Anesthesiology",
+          "Radiology",
+          "Psychiatry",
+          "Surgery",
+          "Family Medicine",
+          "Pediatrics"
+        ],
+        "scrape_hint": "Scan specialty listings, search filters on agency website, or 'We place...' sections; match specialty names and common abbreviations (EM, IM, CRNA, etc.)."
+      },
+      {
+        "key": "credentialing_in_house",
+        "type": "boolean",
+        "label": "In-House Credentialing Team",
+        "display": "badge",
+        "facet": true,
+        "scrape_hint": "Check for mentions of 'primary source verification', 'in-house credentialing', 'dedicated credentialing specialists', or credentialing turnaround guarantees in services or FAQ sections."
+      },
+      {
+        "key": "malpractice_included",
+        "type": "boolean",
+        "label": "Malpractice Coverage Provided",
+        "display": "badge",
+        "facet": true,
+        "scrape_hint": "Look for statements like 'we provide malpractice insurance', 'tail coverage included', 'occurrence-based coverage', or specific policy limits mentioned in provider or FAQ sections."
+      },
+      {
+        "key": "placement_timeline",
+        "type": "enum",
+        "label": "Average Placement Timeline",
+        "display": "text",
+        "facet": true,
+        "enum": [
+          "Under 48 Hours",
+          "3-5 Days",
+          "1-2 Weeks",
+          "2+ Weeks"
+        ],
+        "scrape_hint": "Extract from FAQs, 'How it works', or testimonial sections; look for phrases like 'providers available within 48 hours', 'fill most requests in under a week', or similar urgency-framing language."
+      },
+      {
+        "key": "placement_types",
+        "type": "multi_enum",
+        "label": "Placement Types Offered",
+        "display": "pill_list",
+        "facet": true,
+        "enum": [
+          "Hospital / Acute Care",
+          "Outpatient / Clinic",
+          "Telehealth / Remote",
+          "Long-Term Locums",
+          "Permanent Placement",
+          "Rural / Critical Access"
+        ],
+        "scrape_hint": "Parse services menu, 'Who we serve', or placement type pages; match keywords like 'hospital coverage', 'clinic staffing', 'telemed', 'permanent search', 'rural placement', or 'long-term locum'."
+      },
+      {
+        "key": "phone",
+        "type": "phone",
+        "label": "Phone Number",
+        "display": "text",
+        "facet": false,
+        "scrape_hint": "Extract from header, footer, contact page, or click-to-call buttons; normalize to standard format (e.g., (555) 123-4567)."
+      },
+      {
+        "key": "website",
+        "type": "url",
+        "label": "Website",
+        "display": "link",
+        "facet": false,
+        "scrape_hint": "Capture primary domain from browser address bar, homepage links, or business listings; ensure full URL with https:// protocol."
+      }
+    ]
+  }
+}

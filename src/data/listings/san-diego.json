@@ -1,0 +1,48 @@
+[
+  {
+    "slug": "aya-locums-san-diego",
+    "name": "Aya Locums",
+    "city": "San Diego",
+    "state": "MN",
+    "address": "",
+    "lat": 32.7157,
+    "lng": -117.1611,
+    "phone": "(866) 638-4840",
+    "website": "https://www.ayalocums.com",
+    "email": "locumsinfo@ayalocums.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 4.7,
+    "review_count": 210,
+    "description": "Locum tenens agency matching physicians and advanced practice providers with healthcare facilities nationwide, including Louisiana.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:14:42",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.93,
+      "keywords": [],
+      "highlights": [
+        {
+          "text": "Top pay for Louisiana assignments",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Easy application process",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Reliable and professional",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Locum tenens agency matching physicians and advanced practice providers with healthcare facilities nationwide, including Louisiana."
+    }
+  }
+]

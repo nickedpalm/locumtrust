@@ -1,0 +1,247 @@
+[
+  {
+    "slug": "amn-healthcare-albuquerque",
+    "name": "AMN Healthcare",
+    "city": "Albuquerque",
+    "state": "NM",
+    "address": "",
+    "lat": 35.0844,
+    "lng": -106.6504,
+    "phone": "5552561554",
+    "website": "https://www.amnhealthcare.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Leading locum tenens agency offering family medicine physician jobs in New Mexico facilities like Indian Health Service, clinics, and hospitals, with competitive pay up to $6090 weekly.",
+    "certifications": [],
+    "services": [
+      "locum tenens physician jobs",
+      "family medicine placements",
+      "high-pay temporary positions"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:15:15",
+    "sentiment": null
+  },
+  {
+    "slug": "all-medical-personnel-albuquerque",
+    "name": "All Medical Personnel",
+    "city": "Albuquerque",
+    "state": "NM",
+    "address": "",
+    "lat": 35.0844,
+    "lng": -106.6504,
+    "phone": "1861455297",
+    "website": "https://allmedical.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "National healthcare staffing agency providing locum tenens, travel nursing, and allied health services throughout New Mexico, including Albuquerque, Santa Fe, and Las Cruces.",
+    "certifications": [],
+    "services": [
+      "locum tenens",
+      "travel nursing",
+      "allied health staffing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:15:15",
+    "sentiment": null
+  },
+  {
+    "slug": "barton-associates-albuquerque",
+    "name": "Barton Associates",
+    "city": "Albuquerque",
+    "state": "NM",
+    "address": "",
+    "lat": 35.0844,
+    "lng": -106.6504,
+    "phone": "1120257450",
+    "website": "https://www.bartonassociates.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "National locum tenens staffing agency placing physicians in temporary assignments across New Mexico in specialties like OB/GYN, dentistry, and family practice.",
+    "certifications": [],
+    "services": [
+      "locum tenens physician staffing",
+      "OB/GYN assignments",
+      "dentistry placements"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:15:15",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.96,
+      "keywords": [
+        "professional",
+        "helpful",
+        "responsive",
+        "smooth",
+        "attentive",
+        "reliable"
+      ],
+      "highlights": [
+        {
+          "text": "interactions met with usual high standard of professionalism that I have come to expect",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I am very pleased with my agent. He is very helpful and great service",
+          "sentiment": "positive"
+        },
+        {
+          "text": "My consultant is great. She stays in contact with me and is a joy to work with",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Smooth comfortable service. Always prompt response",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Barton Associates receives uniformly positive reviews praising professional service, responsive consultants, and seamless placement processes with no complaints"
+    }
+  },
+  {
+    "slug": "locumtenenscom-albuquerque",
+    "name": "LocumTenens.com",
+    "city": "Albuquerque",
+    "state": "NM",
+    "address": "",
+    "lat": 35.0844,
+    "lng": -106.6504,
+    "phone": "2147483647",
+    "website": "https://www.locumtenens.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Full-service locum tenens recruitment agency for physicians, advanced practitioners, psychologists, and social workers in temporary assignments nationwide, including New Mexico.",
+    "certifications": [],
+    "services": [
+      "physician recruitment",
+      "advanced practitioner staffing",
+      "psychologist placements"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:15:15",
+    "sentiment": null
+  },
+  {
+    "slug": "unm-medical-group-locum-tenens-albuquerque",
+    "name": "UNM Medical Group Locum Tenens",
+    "city": "Albuquerque",
+    "state": "NM",
+    "address": "",
+    "lat": 35.0844,
+    "lng": -106.6504,
+    "phone": "3652168315",
+    "website": "https://unmhealth.org",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "University of New Mexico program providing locum tenens extension services to improve healthcare access throughout New Mexico.",
+    "certifications": [],
+    "services": [
+      "locum tenens extension services",
+      "healthcare access improvement"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:15:15",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.88,
+      "keywords": [
+        "caring",
+        "professional",
+        "compassionate",
+        "attentive",
+        "comfortable",
+        "respectful"
+      ],
+      "highlights": [
+        {
+          "text": "I feel as though I am truly cared about, cared for and special",
+          "sentiment": "positive"
+        },
+        {
+          "text": "My first visit changed my thought of where I will give birth to my children",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Everyone is very good at explaining and exercise respect and comfort",
+          "sentiment": "positive"
+        },
+        {
+          "text": "She's very compassionate, understanding, and listening with great attention",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "UNM Medical Group receives consistently strong praise for compassionate, professional staff who prioritize patient comfort, attentiveness, and thorough communication across all care settings."
+    }
+  },
+  {
+    "slug": "weatherby-healthcare-albuquerque",
+    "name": "Weatherby Healthcare",
+    "city": "Albuquerque",
+    "state": "NM",
+    "address": "",
+    "lat": 35.0844,
+    "lng": -106.6504,
+    "phone": "954.618.5296",
+    "website": "https://weatherbyhealthcare.com",
+    "email": "privacy@weatherbyhealthcare.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Locum tenens agency recruiting physicians for New Mexico assignments, including emergency medicine, family practice in Lovington, and orthopedic surgery.",
+    "certifications": [],
+    "services": [
+      "emergency medicine locums",
+      "family practice staffing",
+      "orthopedic surgeon placements"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:15:15",
+    "sentiment": null
+  }
+]
